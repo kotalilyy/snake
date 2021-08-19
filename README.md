@@ -2,13 +2,13 @@
 
 ![snake](https://user-images.githubusercontent.com/77229281/129638952-62331e87-f38e-4c8f-bf36-386bbe526dc6.png)
 
-## Technologies
+## Technologies Used
 
 React
 
 ## Credits
 
-Follow this [tutorial](https://www.youtube.com/watch?v=7Rkib_fvowE) to create this snake game! 
+Follow this [tutorial](https://www.youtube.com/watch?v=7Rkib_fvowE) to create this snake game. 
 
 Thanks @[clementmihailescu](https://github.com/clementmihailescu)
 
