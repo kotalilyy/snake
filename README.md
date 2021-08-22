@@ -8,7 +8,7 @@ React
 
 ## Credits
 
-Follow this [tutorial](https://www.youtube.com/watch?v=7Rkib_fvowE) to create this snake game. 
+Click [here](https://www.youtube.com/watch?v=7Rkib_fvowE) to create this snake game. 
 
 Thanks @[clementmihailescu](https://github.com/clementmihailescu)
 
